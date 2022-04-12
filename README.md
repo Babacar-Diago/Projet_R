@@ -1,2 +1,0 @@
-# Projet_R
-Mise en place un tabeau de bord en ligne de suivi Covid-19 Sénégal, qui permettra à un utilisateur de visualiser les éléments suivants : • La courbe d’évolution des cas positifs • La courbe d’évolution des cas guéris • La courbe d’évolution des décés • L’évolution des cas importés, des cas contacts suivis et des cas issus de la transmission communautaire • Le nombre total de cas positifs, le nombre total de cas guéris et le nombre total de décés • La base de données utilisée doit etre accéssible aux utilisateurs au niveau de l’application
