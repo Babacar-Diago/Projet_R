@@ -1,0 +1,13 @@
+name: Projet_R_BigData
+title: Projet_R_BigData
+username:
+account: appsshiny2020
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3430802
+bundleId: 4033059
+url: https://appsshiny2020.shinyapps.io/Projet_R_BigData/
+when: 1609089233.68215
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: courbesEvolution/serverCourbesEvolution.R
